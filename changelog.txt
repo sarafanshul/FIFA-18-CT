@@ -1,0 +1,91 @@
+FIFA 18 - Career mode Cheat Table
+
+## WARNING!! Make a backup save of your career mode progress before you edit anything in "Player Data". Otherwise you may lose your whole progress.
+
+
+Changelog:
+
+		- Added "Player Data". I'll probably add everything from table called "players" located in fifa database in upcoming days.
+		WARNING!! Make a backup save of your career mode progress before you edit anything in "Player Data". Otherwise you may lose your whole progress.
+
+		- Updated "Player Data". Most important stuff like skillmoves/hairs/potential etc. has been added. Let me know if I forgot about something important
+		- Added "Edit Job Offer". 
+		
+
+		- Maic updated his BootsID list! You can find it in first post! Thanks Maic! 
+		- Added preferredposition4 to "Player Data"
+		- Added "The Journey" -> "99 Skill Points".
+		- Added "Youth Academy".
+		
+
+		- Added qasar80's script (without "training_progress.ini")
+		- "Easy Player Edit" script. In FIFA 18 go to Squad -> Edit Player -> Choose player you want to edit -> make your changes in table
+		- Added "PLAYERREGEN = 0" to "Youth Academy".
+		
+
+		- Added some pointers to "Easy Player Edit".
+		
+
+		- Addresses updated. All functions should work with latest game update.
+		
+		
+		- Added "Sim Match Settings"
+		- Added option to edit player attributes in "The Journey"
+		- Added script "999,999 Followers" for "The Journey"
+		- Added "Contract Negotiation" - https://youtu.be/K5CxZVT9geQ
+		- Added "facialhairtypecode" to "Player_Data->Appearance"
+
+		
+		- Removed User's Scripts
+		- Added script allowing to release unlimited amount of player from club, for free. (https://youtu.be/OvjyZ4nKL_U)
+		- Added pointer for "Position ID", "First Name", "Last Name", "Name on shirt" and "Known as" to "Easy Player Edit" (https://youtu.be/OvjyZ4nKL_U)
+
+		- Fixed "Training Everyday".
+		- Added "Unlimited Training Sessions" https://youtu.be/-I-9y33HmRE
+		
+
+	    	- Added "Don't lose stamina" to "Sim Match Settings"
+		- Added "Transfer Window Configuration->Transfer.ini & Transfers.ini"
+		- Added all attributes to "Easy Player Edit"
+		- Added "Commentary Name ID" to "Easy Player Edit". Just to test, It's probably not working atm.
+		- Added "Set up multiple scouting networks in the same country" to "Youth Academy"
+		- Removed "PLAYERREGEN = 0"
+		
+		- Added "Send scout to any country" to "Youth Academy"
+		- Added "Ultimate Difficulty" and "Change Stadium" to "Match Settings"
+		- Editing traits is now more user friendly. (Thanks to lampuiho)
+		
+		- Added "TeamID" to "Player_Data->Player Info". - It's for more advenced users, don't use it on your main career.
+		
+
+		- Added "ClubID" to "Edit Job Offer"
+		
+		- Added "Side Changer" - Watching match (CPU vs. CPU) in career mode is now possible.
+
+		- Working with FIFA 18 TITLE UPDATE 3
+		
+
+		- Added "Unlimited Substitutions" and "Disable Substitutions" to "In-Game Hacks"
+		
+		- Added all missing columns from "players" table to "Player Data".
+	
+		- Added "Transfer HUB" -> "Change Release Clause value to 1$" (Change will be permanent!)
+		- Added "Weather", "Time of Day", "Half Length" to "Match Settings"
+		- Fixed "Disable Substitutions" - You can choose which team will have disabled substitutions now.
+		- Added short guide explaining how to assign commentary name to a player to F.A.Q (https://github.com/xAranaktu/FIFA-18---Career-Mode-Cheat-Table/blob/master/README.md)
+		
+		- Added "teamkits" to "Player_Data". (you can change the fonttype on kits)
+		- Removed "The Journey" section.
+		- FIFA Tracker is live! https://fifatracker.net/
+		
+		- Added "Player Contract" -> "Disable negotiation status checks"
+		- Added editing kit font colours (thanks sammygriffiths)
+		
+		- Renamed "Player Data" to "Database tables"
+		- Added manager table to "Database tables"
+		
+		- Added "jerseycollargeometrytype" to "teamkits"
+		
+		- Added "ONLINE->Alt + Tab Disconnect bypass"
+		
+		- Added "Transfer HUB -> Allow Transfer approach" (You can negotiate with players which: recently moved to club, unwilling to relocate, are blacklisted)
